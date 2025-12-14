@@ -47,7 +47,7 @@ float derivative;
 int base_speed = 150;
 int kp = 8;
 int kd = 100;
-float center_position = 45;
+float center_position = 65;
 
 // ----------------------- LEDC CONFIG ---------------------------
 #define LEDC_FREQ 20000
